@@ -51,3 +51,7 @@ U
 %src/sectionfive/StringBuilderFun.java,e/a/eac88dc637ba3dd5767f4ad66d9b76c9a3ca794a
 L
 src/sectionfive/FivePro.java,f/1/f17f8ec9dabd4e7bdcd404ef13a6bf0ce16130f1
+R
+"src/sectionsix/SquareOfDouble.java,e/a/eab63fa84976fb28fb84a96bc1bb9135dcdbb43a
+U
+%src/sectionsix/MethodOverloading.java,4/2/4292f8d555793858a2a98afecd04c01ceed813f9
