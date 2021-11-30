@@ -1,7 +1,9 @@
 package assignments;
 
-import java.util.*;
-public class AssignmentTwo{
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Assignment2 {
     public static boolean check(String s){
         int arr[]=new int[26];
         for(char c:s.toCharArray()){
@@ -14,7 +16,7 @@ public class AssignmentTwo{
         return true;
     }
 
-//    public static boolean check(String s){
+    //    public static boolean check(String s){
 //       for(int i=0;i<26;i++){
 //            if(!s.contains((char)('a'+i) + "")) return false;
 //      }

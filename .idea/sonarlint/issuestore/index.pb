@@ -1,14 +1,6 @@
 
-X
-(src/assignments/assignment6/Vampire.java,3/9/39a673ab3402369143ebb730b9a2b4df5beb140f
 U
 %src/assignments/assignment6/Demo.java,c/8/c825754ae6850be7e8870f05463f78f450545d7e
-U
-%src/assignments/assignment6/Test.java,4/3/43d11598b9645904d195ce7a69ab4970225301e2
-R
-"src/assignments/AssignmentTwo.java,c/9/c98f946f64f02b31378f3f51fe8b8e58cf426d77
-S
-#src/assignments/AssignmentFour.java,5/d/5d951c7258b760c01ef292e3a8dd9d881bf98a2f
 e
 5src/assignments/assignment7/assignment7_1/Rodent.java,2/2/22bafcba9f0d209857bd579fe377a7c113883859
 e
