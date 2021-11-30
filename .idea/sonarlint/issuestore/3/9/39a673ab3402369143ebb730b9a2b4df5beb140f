@@ -1,0 +1,19 @@
+
+L
+java:S1197"*Move the array designators [] to the type.(˜ËÔ‚şÿÿÿÿ8ŞŠåÖ/
+G
+java:S1197"*Move the array designators [] to the type.(£‘¾ú8àŠåÖ/
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(™åøŠ8æŠåÖ/
+L
+java:S11976"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ïŠåÖ/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(—¸£´8÷ŠåÖ/
+T	java:S106<"9Replace this use of System.out or System.err by a logger.(·ÂÚq8ûŠåÖ/
+Q
+java:S1066*"/Merge this if statement with the enclosing one.(üÇÉëÿÿÿÿÿ8€ŠåÖ/
+b
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(™åøŠ8†ŠåÖ/
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(™åøŠ8ˆŠåÖ/
+b
+java:S2184%"ECast one of the operands of this subtraction operation to a "double".(»®å¥8ŠŠåÖ/
