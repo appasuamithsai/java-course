@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Assignment11 {
     static HashMap<Character,Integer> map;
     public static void main(String[] args)  {
-        File file=new File("/home/amitsa/IdeaProjects/JavaCourse/src/assignments/assignment11/cool");
+        File file=new File(args[0]);
         Scanner sc=null;
         map=new HashMap<>();
         try {
