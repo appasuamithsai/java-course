@@ -33,3 +33,9 @@ c
 3src/assignments/assignment7/assignment7_4/Main.java,f/3/f33c7be2c8cbfcb726d15cfa84dccaec23e93ed6
 k
 ;src/assignments/assignment7/assignment7_4/CycleFactory.java,7/3/7333696b912230d13f10ee1b8685f4f9c8027a77
+Q
+!src/assignments/assignment11/cool,6/7/676a0fa42d4ab22d9727bbbf902918d866eb4e13
+f
+6src/streamsandlambdas/practice/StreamsPracticeOne.java,b/1/b1c66a0efac09d4d6228537673d096a07600f27e
+X
+(src/streamsandlambdas/practice/Test.java,b/8/b8a573ab9b315d17e176f7984c0a258ff4760658

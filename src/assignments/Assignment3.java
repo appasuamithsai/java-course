@@ -1,3 +1,4 @@
+package assignments;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -16,6 +17,9 @@ public class Assignment3 {
         long median=ping(ipAddress,count);
         System.out.println("Median :: "+median);
     }
+
+
+
     public static long ping(String ipAddress,int count) throws Exception {
         Socket socket;
         try {

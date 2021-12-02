@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºóÏàÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·‹Á­ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô„”ñşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î€Å¬ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÕ²´úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›áé—şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¾¬ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¨¡§ùÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(›áé—şÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ĞÕ²´úÿÿÿÿ
